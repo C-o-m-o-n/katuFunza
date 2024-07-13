@@ -1,5 +1,6 @@
-KATiFunza
-Constitution made simpler
+# KATiFunza
+## Constitution made simpler
+
 This is the README file for [KATiFunza]. 
 The project is about [creating a system that simplifies the contents in the Kenyan constitution thus making it easier for the masses to comprehend.]
 Goals
