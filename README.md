@@ -1,36 +1,50 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+KATiFunza
+Constitution made simpler
+This is the README file for [KATiFunza]. 
+The project is about [creating a system that simplifies the contents in the Kenyan constitution thus making it easier for the masses to comprehend.]
+Goals
+•	Enhancing readability of The Kenyan Government Documents by summarizing the said documents and simplifying the complex statements thus enabling easier presentation
+•	Ensuring transparency in resource management as citizens can monitor how government officials use allocated funds and resources
+•	Raise awareness of government activities being carried out in their region
 
-## Getting Started
+Requirements
+•	Required Software: [IDX environment, NextJS, Gemini API]
+•	Hardware Requirements: [Laptop, Hardware 2]
+Installation
+As you begin, make sure the following are installed on your device
+•	Next.js
+•	Npm
+•	Docker
+•	Git
+•	IDX environment
 
-First, run the development server:
+Usage
+Home Page
+When you first access the app, you’ll be greeted by a homepage that provides an overview of available features and objectives.
+Search for Documents
+Use the search bar to browse and seek documents of interest whilst using relevant keywords to find what you’re looking for.
+Reading and Comprehending
+Upon location of your document of interest, you can click on it to provide the needed summary
+Key points and important sections will be highlighted plus simplifying complex terms.
+Tracking resource management
+Navigate to the resource management section and you will find the dashboard that displays information about government’s acquisition of resources and expenditure
+Detailed Reports
+Click on specific entries to view detailed reports on expenditure and allocations. These reports will be updated regularly.
+Project Structure
+•	/public: Stores publicly accessible files.
+•	/src: Contains source code files.
+•	/components: input files
+•	/:pages:
+•	/:styles: contains css files
+•	
+Contributions
+To contribute to the project, please follow these steps:
+1.	Fork or clone the project.
+2.	Make your changes in your branch.
+3.	Create a pull request to the main branch.
+Contact
+•	Email: [comon928@gmail.com]
+•	Twitter: [@c_o_m_o_n]
+•	GitHub: [c-o-m-o-n]
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
-
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
-
-This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
-
-## Learn More
-
-To learn more about Next.js, take a look at the following resources:
-
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
-
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
